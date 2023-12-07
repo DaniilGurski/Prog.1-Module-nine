@@ -1,0 +1,1 @@
+When we want to work with files in Python, we have to open STREAM. Sooner or later the stream needs to be closed. This can be done either manually or by using the "with" function.
